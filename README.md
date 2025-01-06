@@ -10,4 +10,4 @@ This project containes a custom Minigame state machine that also has different w
 
 ## Purpose
 
-This system was created in such a way that allows the number of minigames and pop ups minigames to be infinitley scaled up or scaled back based on the current project scope, allowing both programmers and artists flexibility while they work towards the finished game. Reverex won ⭐**3rd Place**⭐ for *Technical Innovation* at the **Level Up Student Showcase 2024** in Toronto.
+This system was created in such a way that allows the number of minigames and pop ups minigames to be infinitley scaled up or scaled back based on the current project scope, allowing both programmers and artists flexibility while they work towards the finished game. The original Reverex won ⭐**3rd Place**⭐ for *Technical Innovation* at the **Level Up Student Showcase 2024** in Toronto.
